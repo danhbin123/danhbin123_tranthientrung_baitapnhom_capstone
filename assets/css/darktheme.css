@@ -1,0 +1,64 @@
+.dark-theme {
+    background: #151515;
+}
+
+.dark-theme header nav.bg-dark {
+    background-color: #151515 !important;
+}
+.dark-theme header nav .nav-item a{
+    color: white;
+}
+
+.dark-theme .hny-title {
+    color: white;
+}
+
+.dark-theme header nav .bg-dark .nav-item .nav-link {
+    color: white;
+}
+
+.dark-theme .choose_us_box .row .cont-4 li {
+    color: white;
+}
+.dark-theme .dropdown-menu{
+    background-color: #151515;
+}
+.dark-theme .dropdown-item {
+    background-color: #151515;
+}
+.dark-theme .dropdown-menu .dropdown-item {
+    color: white;
+}
+.dark-theme .Services .col-items h3{
+    color: white;
+} 
+.dark-theme .Services .col-items a {
+    color: white;
+}
+.dark-theme .Services .col-items:hover a{
+    color: green;
+}
+
+#switchButton .fa-moon{
+    display: none;
+}
+
+#switchButton .fa-sun{
+    display: block;
+}
+
+.dark-theme #switchButton .fa-moon {
+    display: block;
+}
+
+.dark-theme #switchButton .fa-sun{
+    display: none;
+}
+
+.dark-theme .Services .col-items {
+    background-color: #151515;
+}
+
+#switchButton {
+    background-color: white;
+}
